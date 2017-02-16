@@ -1,4 +1,7 @@
-Body { background-color: #9c9f84;
+
+
+
+body { background-color: #9c9f84;
 margin: 0px;
 Font-family: Verdana, georgia, serif;
 font-size: 14px;   }
@@ -18,6 +21,15 @@ margin:10px;
 border-radius:5px;
 padding:20px;
 font-size: 110%;   }
+
+.siderright{backgroundcolor: #5b621e;
+margin:10px;
+border-raduis: 10px;
+padding:20px;
+font-size:100%;
+float:rihgt;
+width:250px;
+ }
 
 h1{ font-size:125%;
 color:#ce282e;
