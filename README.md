@@ -8,7 +8,7 @@ this is the final project for this class
 <head>
 
   <title> </title>
-<link type=”text/css”   rel=”stylesheet”   href=”stylesheet.css”>
+<link type=”text/css”   rel=”stylesheet”   href=”thisiswebpage/css”>
 
 </head>
 
