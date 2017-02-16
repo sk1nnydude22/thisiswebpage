@@ -8,7 +8,7 @@ this is the final project for this class
 <head>
 
   <title> </title>
-<link type=”text/css”   rel=”stylesheet”   href=”stylesheet”>
+<link type=”text/css”   rel=”stylesheet”   href=”stylesheet.css”>
 
 </head>
 
@@ -18,6 +18,6 @@ this is the final project for this class
 
 <navbar> IS </navbar>
 
-<main> WEBPAAAAAG!! </main>
+<main> WEBPAAAAAGE!! </main>
 
 </body> </html>
